@@ -16,7 +16,7 @@
 	{
       "matchHost": "https://wsdev.jfrog.io/artifactory/api/npm/haythem-npm/",
       "hostType":"npm",
-      "userName": "adamsagas",
+      "username": "adamsagas",
       "encrypted": {
 	  "password": "wcBMA90FtVIhcznKAQf8DYPGeS0p1EdQiXjwT0bBGVt3sIDYVM/7LONkktLoX+K1EZzJx/LjYIJMT9gAgPR7o/z258YqnOBs8maJUbwmczsQ/LE4jHj46wrlp3GREh6n32Vo0nyGczEdUFjEc9GjYaEu2OBqM0+a9EMMQDxdpk4E9jBem3Uhd6jP5qVtbpTlrJMmXgD84q6yF979bLHJ1sTXVjmolRjIkS+PGvlYeGOLoY/jOQAgfDzix45BXAGurMQRelswojP1n0hBAkqz0K0+z3q/4Zu+/CcTT030fDkZD4012qHSub3NI0sf46AXE6dYZgojLQ05yQjqC/oS/IX/Y8mC+TLUxANjSaaZedJ3AS0ERDW8vnCnYgAuVz/tKc1ilCbzVJD6LXwWHTVW82V8yq0YJyCfAJ7OwCjqXPtstxRRSeXFmtD/oQIw+pHP42iWyKHbnVOHMRgR1AqdsVeZuUlRjHCfVAhpCOIN25hj10Ee5IvPkZKD+ZDZMGtPGZtHJEyyVYU"
       }
