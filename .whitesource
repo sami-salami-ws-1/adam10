@@ -14,7 +14,7 @@
   },
   "hostRules": [
 	{
-      "matchHost": "https://wsdev.jfrog.io/artifactory/api/npm/haythem-npm/",
+      "matchHost": "https://wsdev.jfrog.io/artifactory/haythem-npm/",
       "hostType":"npm",
       "username":"adamsagas",
       "encrypted": {
