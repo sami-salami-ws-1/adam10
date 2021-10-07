@@ -4,12 +4,12 @@
 		"description": "npm with private package",
 		"main": "index.js",
 		"scripts": {
-				"test": "echo \"Error: no test specified\" && exit 1"
+			"test": "echo \"Error: no test specified\" && exit 1"
 		},
 		"author": "sami salami",
 		"license": "ISC",
 		"private": true,
 		"dependencies": {
-			"@whitesource-adam/haythem-library": "1.0.0"
+		   		"@whitesource-adam/haythem-library": "1.0.0"
 		}
 }
